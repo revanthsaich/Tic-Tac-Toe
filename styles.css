@@ -27,6 +27,7 @@ h1{
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     cursor: pointer;
     gap: 10px;
+    margin-bottom: 30px;
  
 }
 .indicator div {
@@ -100,7 +101,7 @@ h1{
     background-color: #fffcfd;
     padding: 10px 25px;
     border: none;
-    display:flex;
+    display:none;
     font-size: 25px;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-weight: 700;
